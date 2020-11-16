@@ -1,0 +1,23 @@
+var data;
+data = `[{"slno" : "SlNo ", "name" : "Name ", "unit" : "Unit ", "quantity" : "Qty ", "price" : "Price ", "description" : "Description "}, 
+            {"slno" : "1" , "name" : "Rice", "unit" : "kg",
+            "quantity" : "5" , "price" : "125" , "Description" : "Kuruva Rice"},
+            {"slno" : "2" , "name" : "Sugar", "unit" : "kg", 
+            "quantity" : "2" , "price" : "60" , "Description" : "Nill"}, 
+            {"slno" : "3" , "name" : "Wheat", "unit" : "kg", 
+            "quantity" : "2" , "price" : "84" , "Description" : "Ashirvad"}, 
+            {"slno" : "4" , "name" : "Rava", "unit" : "kg", 
+            "quantity" : "1" , "price" : "35" , "Description" : "Melam"},
+            {"slno" : "5" , "name" : "Oil", "unit" : "Ltr", 
+            "quantity" : "3" , "price" : "270" , "Description" : "Coconut oil"}, 
+            {"slno" : "6" , "name" : "Tomato", "unit" : "kg", 
+             "quantity" : "2" , "price" : "60" , "Description" : "Nill"}, 
+            {"slno" : "7" , "name" : "Onion", "unit" : "kg", 
+            "quantity" : "2" , "price" : "30" , "Description" : "Nill"}, 
+            {"slno" : "8" , "name" : "Potato", "unit" : "kg", 
+            "quantity" : "1" , "price" : "25" , "Description" : "Nill"}, 
+            {"slno" : "9" , "name" : "Milk", "unit" : "Ltr", 
+            "quantity" : "1" , "price" : "40" , "Description" : "Nill"}, 
+            {"slno" : "10" , "name" : "Chilli", "unit" : "Gm", 
+            "quantity" : "200" , "price" : "20" , "Description" : "Green chilli"}]`;
+            
